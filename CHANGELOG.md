@@ -15,6 +15,7 @@ to the project during `#hactoberfest`. List of awesome people:
 - [@tipabu](https://github.com/tipabu)
 - [@roxe322](https://github.com/roxe322)
 - [@geoc0ld](https://github.com/geoc0ld)
+- [@bekemaydin](https://github.com/bekemaydin)
 
 ### Features
 
@@ -42,6 +43,7 @@ to the project during `#hactoberfest`. List of awesome people:
 
 ### Bugfixes
 
+- Fixed missed 'import wemake-python-styleguide' lines.
 - Fixes that `MultipleIfsInComprehensionViolation` was not enabled
 - Fixes flaky behaviour of `test_module_names` test package
 - Fixed `TooManyMethodsViolation` not displaying line number in output
